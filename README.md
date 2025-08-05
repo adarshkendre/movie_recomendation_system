@@ -3,7 +3,7 @@
 A content-based movie recommendation system built using Python and Jupyter Notebook, leveraging the TMDB 5000 movie dataset.
 
 📅 **Last Updated:** August 5, 2025  
-👨‍💻 **Author:** Billionaire Adarsh
+👨‍💻 **Author:** Adarsh Kendre
 
 ---
 
