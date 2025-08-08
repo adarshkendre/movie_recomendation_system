@@ -16,13 +16,16 @@ This project aims to build a movie recommendation engine that suggests similar m
 ## 📂 Repository Structure
 
 ```bash
-Movie-Recommendation-System/
-│
-├── Recommendation_Sys_project.ipynb   # Main Jupyter notebook containing all code
-├── tmdb_5000_movies.csv               # Movie metadata from TMDB
-├── tmdb_5000_credits.csv              # Cast and crew information
-└── README.md                          # Project documentation (you are here)
-
+Movie Recommendation Model\
+  ├── app.py (main Flask file)
+  ├── recommender.ipynb (similar to reccommender.ipynb file used for data cleaning and uderstanding every function)
+  ├── recommender.py
+  ├── templates/
+  │   └── index.html
+  ├── static/
+  │   └── style.css
+  ├── tmdb_5000_movies.csv
+  └── tmdb_5000_credits.csv
 
 🔄 Project Flow
 1. Dataset & Jupyter Notebook Setup
